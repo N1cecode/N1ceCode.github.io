@@ -25,8 +25,9 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
+      - N1ceCode.github.io
     # - repo-name
 
 # social_media:
@@ -49,15 +50,15 @@ projects:
 
 topics:
   - name: DeepLearning
+    web_url: 
+    image_url: 
 
   - name: Computer Vision
+    web_url: 
+    image_url: 
 
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Low-level Vision
+    web_url: 
+    image_url: 
 
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    
