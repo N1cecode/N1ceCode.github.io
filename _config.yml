@@ -51,14 +51,14 @@ projects:
 topics:
   - name: DeepLearning
     web_url: 
-    image_url: 
+    image_url: images/deep-learning.png
 
   - name: Computer Vision
     web_url: 
-    image_url: 
+    image_url: images/vision.png
 
   - name: Low-level Vision
     web_url: 
-    image_url: 
+    image_url: images/picture.png
 
     
