@@ -6,6 +6,6 @@ layout: post
 
 **Hello**, this is my website.
 
-It was built by using the template of the [github official repository](https://github.com/topics/personal-website).
+It was built based on the template of the [GitHub official repository](https://github.com/topics/personal-website).
 
 I hope you like it!
