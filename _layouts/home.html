@@ -40,6 +40,17 @@
 
         {% include projects.html %}
 
+        <div class="my-6">
+          <h3>Recent Posts</h3>
+          <ul>
+            {% for post in site.posts limit:5 %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+        
         {% if site.topics %}
           {% include interests.html %}
         {% endif %}
